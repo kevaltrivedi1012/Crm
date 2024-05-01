@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CRMCore.Application</id>
+    <version>1.0.0</version>
+    <authors>CRMCore.Application</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="CRMCore.EntityFrameWorkCore" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="BCrypt.Net-Next" version="4.0.3" exclude="Build,Analyzers" />
+        <dependency id="MailKit" version="4.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNet.Identity.EntityFramework" version="2.2.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="MimeKit" version="4.4.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\Keval\coreCRM\CRM_API\CRMCore.Application\bin\Debug\net6.0\CRMCore.Application.dll" target="lib\net6.0\CRMCore.Application.dll" />
+  </files>
+</package>

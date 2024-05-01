@@ -1,0 +1,15 @@
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\bin\Debug\net6.0\CRMCore.Application.deps.json
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\bin\Debug\net6.0\CRMCore.Application.dll
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\bin\Debug\net6.0\CRMCore.Application.pdb
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\bin\Debug\net6.0\CRMCore.EntityFrameWorkCore.dll
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\bin\Debug\net6.0\CRMCore.EntityFrameWorkCore.pdb
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\obj\Debug\net6.0\CRMCore.Application.csproj.AssemblyReference.cache
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\obj\Debug\net6.0\CRMCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\obj\Debug\net6.0\CRMCore.Application.AssemblyInfoInputs.cache
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\obj\Debug\net6.0\CRMCore.Application.AssemblyInfo.cs
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\obj\Debug\net6.0\CRMCore.Application.csproj.CoreCompileInputs.cache
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\obj\Debug\net6.0\CRMCore.Application.csproj.CopyComplete
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\obj\Debug\net6.0\CRMCore.Application.dll
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\obj\Debug\net6.0\refint\CRMCore.Application.dll
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\obj\Debug\net6.0\CRMCore.Application.pdb
+G:\Keval\coreCRM\CRM_API\CRMCore.Application\obj\Debug\net6.0\ref\CRMCore.Application.dll
